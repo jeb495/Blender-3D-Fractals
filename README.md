@@ -1,4 +1,4 @@
-# Mandelbulb-In-Blender
+# Blender Fractals
 This requires a blender addon called "Dynamic maths expression" (https://github.com/baldingwizard/Blender-Addons/wiki/Dynamic-Maths-Expression)
 
 It allows you to provide an maths expression and have a node tree generated from it. 
