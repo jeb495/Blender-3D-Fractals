@@ -8,6 +8,6 @@ Simply install the addon by going to Edit > Preferences > Addons > install addon
 
 Then Open the blend file from this repo and enjoy!
 
-## Demo Images: 
+## Images: 
 ![untitled](https://user-images.githubusercontent.com/54542639/115467714-cdaab980-a1e6-11eb-973b-bebec4ddbc6a.png)
 ![untitled1](https://user-images.githubusercontent.com/54542639/115467733-d3a09a80-a1e6-11eb-8ecb-abc35585a9b8.png)
